@@ -1,0 +1,6 @@
+module Pods_baseView {
+  umbrella header "Pods-baseView-umbrella.h"
+
+  export *
+  module * { export * }
+}

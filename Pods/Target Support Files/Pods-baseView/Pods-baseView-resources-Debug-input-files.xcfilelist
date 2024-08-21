@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-baseView/Pods-baseView-resources.sh
+${PODS_CONFIGURATION_BUILD_DIR}/Alamofire/Alamofire.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/Kingfisher/Kingfisher.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/SnapKit/SnapKit_Privacy.bundle
